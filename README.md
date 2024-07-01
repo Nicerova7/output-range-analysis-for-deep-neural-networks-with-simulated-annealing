@@ -51,7 +51,7 @@ print(f"Optimal Solution: {best_value:.4f}, Prediction = {best_solution}")
 [WIP]
 
 
-## ✒️ Author:
+## ✒️ Authors:
 
 * Helder Rojas (h.rojas-molina23@imperial.ac.uk)
 * Nilton Rojas-Vales (nrojasv@uni.pe)

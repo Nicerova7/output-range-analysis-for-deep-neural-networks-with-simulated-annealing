@@ -2,7 +2,7 @@
 
 ## ✨ Introduction
 
-[WIP]
+Our approach addresses the lack of local geometric information and high non-linearity in DNNs, making it versatile across various architectures, especially Residual Neural Networks (ResNets). We present a straightforward, implementation-friendly algorithm that avoids restrictive assumptions about network architecture. Through theoretical analysis and experimental evaluations, including tests on the Ackley function, we demonstrate our algorithm’s effectiveness in navigating complex, non-convex surfaces and accurately estimating DNN output ranges.
 
 ## 📈 Reproduction results
 
